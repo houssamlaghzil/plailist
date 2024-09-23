@@ -14,6 +14,7 @@ export default function Navbar() {
                         <span className="text-gray-800 mx-2">Connexion</span>
                     </Link>
                     <Link href="/signup">
+                        
                         <span className="text-gray-800 mx-2">Inscription</span>
                     </Link>
                 </div>
